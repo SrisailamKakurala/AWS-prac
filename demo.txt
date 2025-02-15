@@ -1,0 +1,25 @@
+🚀 Introducing S3Locky – A Secure & Scalable Cloud-Based File Storage System! 🔒☁️  
+
+Tired of managing complex file storage solutions? S3Locky is here to simplify secure file uploads, previews, and downloads using AWS S3 Pre-Signed URLs!  
+
+🔹 Key Features:  
+✅ Pre-Signed URLs for secure & time-limited file access.  
+✅ Effortless File Uploads with a smooth, user-friendly UI.  
+✅ Instant Previews for images, PDFs, and videos.  
+✅ Secure Downloads with authentication-based access control.  
+✅ File Management – Delete files with confirmation.  
+
+⚡ Tech Stack:  
+🟢 Frontend: React, TailwindCSS, React Icons  
+🟠 Backend: Node.js, Express, MongoDB  
+🔵 Storage: AWS S3 (Pre-Signed URLs for security & efficiency)  
+
+🔥 Why S3Locky?  
+🔐 No more exposed S3 URLs – Everything is handled via secure, temporary signed URLs.  
+⚡ Faster performance with CORS optimization & caching.  
+📂 Supports all file types – Images, PDFs, Videos & more!  
+
+🔗 Stay tuned for updates!  
+Would love to hear your feedback. Drop a comment! 💬⬇️  
+
+#AWS #S3 #PreSignedURLs #CloudStorage #FileUpload #WebDevelopment #NodeJS #ReactJS #Tech
